@@ -48,7 +48,7 @@ body {
 }
 
 .start-header.scroll-on .navbar-brand img {
-    height: 24px;
+    height: 55px;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
 }
@@ -68,7 +68,7 @@ body {
 }
 
 .navbar-brand img {
-    height: 28px;
+    height: 40px;
     width: auto;
     display: block;
     filter: brightness(10%);
